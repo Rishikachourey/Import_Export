@@ -18,7 +18,7 @@ const About = () => {
               <div className="home-transportation-content">
                 {/* Section Title Start */}
                 <div className="section-title">
-                  <h3 className="text-anime-style-3"><span>{t('hero_about1')} AL SAMA IMPORT EXPORT<br /></span>{t('hero_about2')}
+                  <h3 className="text-anime-style-3"><span>{t('hero_about1')} SeaRoute Exports<br /></span>{t('hero_about2')}
                   </h3>
                 </div>
                 {/* Section Title End */}

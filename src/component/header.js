@@ -24,7 +24,7 @@ function Template() {
         {/* Logo Start */}
 
 
-        <Link className="navbar-brand" to="/"><img src="./assets/images/product/headerlogo.svg" alt /></Link>
+        <Link className="navbar-brand" to="/"><img src="./assets/images/sealogo1.png" alt /></Link>
 
         {/* Logo End */}
         {/* Main Menu Start */}

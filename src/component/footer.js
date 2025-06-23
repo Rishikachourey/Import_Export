@@ -21,7 +21,7 @@ const Footer = () => {
                     {/* Footer Heading Start */}
                     <div className="footer-heading">
                       <figure>
-                        <Link to='/'><img src="./assets/images/product/footerlogo.svg" alt /></Link>
+                        <Link to='/'><img src="./assets/images/sealogo1.png" alt /></Link>
                       </figure>
                     </div>
                     {/* Footer Heading End */}
@@ -133,7 +133,7 @@ const Footer = () => {
               <div className="col-lg-6 col-md-7 col-12">
                 {/* Footer Copyright Content Start */}
                 <div className="footer-copyright">
-                  <p>{t('copyright')} 2024  <b>AL SAMA IMPORT EXPORT</b> {t('all_right_reserved')}</p>
+                  <p>{t('copyright')} 2024  <b>SeaRoute Exports</b> {t('all_right_reserved')}</p>
                 </div>
                 {/* Footer Copyright Content End */}
               </div>

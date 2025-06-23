@@ -77,7 +77,7 @@ const Contact = () => {
             </div>
             <div className="col-lg-5 col-md-6">
               <div className="contact-us">
-                <h2 className="text-anime-style-3">AL SAMA IMPORT EXPORT</h2>
+                <h2 className="text-anime-style-3">SeaRoute Exports</h2>
                 {/* Contact Us Info Start */}
                 <div className="contact-us-info">
                   <div className="footer-info-box wow fadeInUp" data-wow-delay="0.25s">
